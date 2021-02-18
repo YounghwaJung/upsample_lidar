@@ -15,5 +15,5 @@ Given the low resolution point clouds, the proposed method generates high resolu
 * Convolutional NPs : [link](https://github.com/makora9143/pytorch-convcnp)
 
 ## References
-[1] Shan, Tixiao, et al. "Simulation-based Lidar Super-resolution for Ground Vehicles." arXiv preprint arXiv:2004.05242 (2020).
-[2] Gordon, Jonathan, et al. "Convolutional Conditional Neural Processes." International Conference on Learning Representations. 2019.
+1. Shan, Tixiao, et al. "Simulation-based Lidar Super-resolution for Ground Vehicles." arXiv preprint arXiv:2004.05242 (2020).
+2. Gordon, Jonathan, et al. "Convolutional Conditional Neural Processes." International Conference on Learning Representations. 2019.
