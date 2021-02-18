@@ -1,4 +1,4 @@
-# Upsampling LiDAR
+# Uncertainty-Aware ast Point Clouds Upsampling for Outdoor Environment
 
 
 ## Description
