@@ -15,7 +15,7 @@ Given the low resolution point clouds, the proposed method generates high resolu
 
 ## Demo-video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1n3BwzQHfaHIjchfi2Iw0kq-K22I7WefI/view?usp=sharing)](https://youtu.be/HzNIdZH-z94)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1n3BwzQHfaHIjchfi2Iw0kq-K22I7WefI)](https://youtu.be/HzNIdZH-z94)
 
 
 ## Reference Code
