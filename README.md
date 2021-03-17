@@ -12,6 +12,9 @@ Given the low resolution point clouds, the proposed method generates high resolu
 * python version 3.7
 * Pytorch version 1.3.1
 
+## Demo-video
+
+[![Watch the video](https://drive.google.com/uc?export=view&id=1uM0ZzE4l2KcD10db5l6jWYRP02sbAiYr)](https://youtu.be/2d28cw9zb-0)
 
 
 ## Reference Code
