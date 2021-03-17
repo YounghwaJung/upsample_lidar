@@ -17,7 +17,6 @@ Given the low resolution point clouds, the proposed method generates high resolu
 
 [![Watch the video](https://drive.google.com/uc?export=view&id=1ADC9fcRAVKgaO8boYVQ1BMEL9NwslwY4)](https://youtu.be/HzNIdZH-z94)
 
-
 ## Reference Code
 * Super Resolution LiDAR : [link](https://github.com/RobustFieldAutonomyLab/lidar_super_resolution)
 * Convolutional NPs : [link](https://github.com/makora9143/pytorch-convcnp)
