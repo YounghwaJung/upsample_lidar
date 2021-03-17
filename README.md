@@ -15,7 +15,7 @@ Given the low resolution point clouds, the proposed method generates high resolu
 
 ## Demo-video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1ADC9fcRAVKgaO8boYVQ1BMEL9NwslwY4)](https://youtu.be/HzNIdZH-z94)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1ADC9fcRAVKgaO8boYVQ1BMEL9NwslwY4)](https://youtu.be/7HivWBehHOc)
 
 ## Reference Code
 * Super Resolution LiDAR : [link](https://github.com/RobustFieldAutonomyLab/lidar_super_resolution)
