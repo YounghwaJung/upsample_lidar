@@ -1,4 +1,4 @@
-# Uncertainty-Aware ast Point Clouds Upsampling for Outdoor Environment
+# Uncertainty-Aware Fast Point Clouds Upsampling for Outdoor Environment
 
 
 ## Description
@@ -14,7 +14,7 @@ Given the low resolution point clouds, the proposed method generates high resolu
 
 ## Demo-video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1uM0ZzE4l2KcD10db5l6jWYRP02sbAiYr)](https://youtu.be/2d28cw9zb-0)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1uM0ZzE4l2KcD10db5l6jWYRP02sbAiYr)](https://youtu.be/HzNIdZH-z94)
 
 
 ## Reference Code
