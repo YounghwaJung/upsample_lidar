@@ -6,7 +6,6 @@ Sumitted to 2021-IROS
 Given the low resolution point clouds, the proposed method generates high resolution point clouds.
 
 
-## Public Dataset
 
 ## Implementation
 * python version 3.7
