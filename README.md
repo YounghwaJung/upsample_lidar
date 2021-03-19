@@ -8,10 +8,12 @@ Given the low resolution point clouds, the proposed method generates high resolu
 
 ## Public Dataset
 
-
 ## Implementation
 * python version 3.7
 * Pytorch version 1.3.1
+
+## Implementation
+TDB
 
 ## Demo-video
 
