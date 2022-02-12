@@ -1,5 +1,5 @@
-# Uncertainty-Aware Fast Point Clouds Upsampling for Autonomous Vehicles
-Sumitted to 2021-IROS
+# Fast Point Clouds Upsampling with Uncertainty Quantification for Autonomous Vehicles
+Sumitted to 2022-ICRA
 
 
 ## Description
