@@ -25,3 +25,19 @@ TDB
 ## References
 1. Shan, Tixiao, et al. "Simulation-based Lidar Super-resolution for Ground Vehicles." arXiv preprint arXiv:2004.05242 (2020).
 2. Gordon, Jonathan, et al. "Convolutional Conditional Neural Processes." International Conference on Learning Representations. 2019.
+
+
+## Cite
+If you think this work is useful in your research, please consider cite our paper:
+```
+@INPROCEEDINGS {
+    AUTHOR = {Younghwa Jung, Seung-Woo Seo, and Seong-Woo Kim},
+    TITLE = {Fast Point Clouds Upsampling with Uncertainty Quantification for Autonomous Vehicles},
+    BOOKTITLE = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA) },
+    YEAR = {2022},
+    MONTH = {May},
+    ADDRESS = {Philadelphia (PA), USA},
+    NOTE = {Accepted. To appear.},
+}
+
+```
