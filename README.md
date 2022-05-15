@@ -1,5 +1,4 @@
-# Fast Point Clouds Upsampling with Uncertainty Quantification for Autonomous Vehicles
-Sumitted to 2022-ICRA
+# Fast Point Clouds Upsampling with Uncertainty Quantification for Autonomous Vehicles accepted to 2022-ICRA
 
 
 ## Description
